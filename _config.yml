@@ -1,4 +1,4 @@
 theme: jekyll-theme-midnight
-name: Ishan Saini, messy and nyc
+name: Ishan Saini
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
